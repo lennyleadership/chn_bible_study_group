@@ -17,8 +17,8 @@ show_button_links: false
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  title: Blog
-  author: Lenny Lin
+  title: Chinese/English Bible Study
+  author:
   description: "May the Lord bless you"
   categories_link: true
   series_link: true

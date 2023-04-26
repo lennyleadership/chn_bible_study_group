@@ -111,6 +111,14 @@ menu:
       title: Tags
       url: /tags/
       weight: 3
+    - name: Series
+      title: Series
+      url: /series/
+      weight: 4
+    - name: Categories
+      title: Categories
+      url: /categories/
+      weight: 5      
     #- name: A collection
     #  title: A collection
     #  url: /collection/

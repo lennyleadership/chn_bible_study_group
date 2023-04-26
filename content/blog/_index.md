@@ -20,9 +20,6 @@ sidebar:
   title: Chinese/English Bible Study
   author:
   description: "May the Lord bless you"
-  categories_link: true
-  series_link: true
-  tags_link: true
   show_sidebar_adunit: true
   text_link_label: 
   text_link_url: /index.xml

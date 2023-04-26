@@ -107,6 +107,10 @@ menu:
       title: Blog
       url: /blog/
       weight: 2
+    - name: Tags
+      title: Tags
+      url: /tags/
+      weight: 3
     #- name: A collection
     #  title: A collection
     #  url: /collection/

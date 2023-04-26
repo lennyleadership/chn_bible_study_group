@@ -1,5 +1,5 @@
 ---
-title: [2023.04.26 Tuesday night meeting]
+title: [Tuesday night meeting 2023.04.26 ]
 author: Lenny Lin
 categories: 
 tags: [Salvation]
@@ -17,5 +17,5 @@ Linda L. shared the fruit of thoughts on the death of Anaias and Sappharia.  She
 
 Kevin Y.: In the early formation of church, God showed to church that it is important to be pure from beginning, and live holy life and fear the Lord.  
 
-Psalms 51:1-4
+(Psalms 51:1-4) God.
 

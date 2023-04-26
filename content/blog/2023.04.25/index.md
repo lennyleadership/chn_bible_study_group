@@ -17,5 +17,11 @@ Linda L. shared the fruit of thoughts on the death of Anaias and Sappharia.  She
 
 Kevin Y.: In the early formation of church, God showed that it is important for church to be pure from beginning, and believers shall live holy life and fear the Lord.  
 
-(Psalms 51:1-4 David repentence after he had committed adultery with Bathsheba) Pay attention that the verses did not say the King David sinned against Bathsheba and her to-be-died husband Uriah, but say he sinned against God.
+(Psalms 51:1-4 David repentence after he had committed adultery with Bathsheba) Pay attention that the verses did not say the King David sinned against Bathsheba and her to-be-died husband Uriah, but say he sinned against God.  
+
+The Russia president, Putin, started the war.  He sinned against God.  God created Putin to reflect God's image, and yet he polluted God's image.
+
+Anaias and Sappharia thought God did not know what they did.
+
+Roman 3:23
 

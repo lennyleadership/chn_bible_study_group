@@ -48,31 +48,31 @@ params:
   orgName: RStudio
   sharing_image: /img/papillons.jpg
   social:
-    - icon: github
-      icon_pack: fab
-      url: https://github.com/apreshill/apero
-    - icon: facebook-square
-      icon_pack: fab
-      url: https://www.facebook.com/hashtag/ap%C3%A9ro
-    - icon: instagram
-      icon_pack: fab
-      url: https://www.instagram.com/explore/tags/apero/
-    - icon: twitter
-      icon_pack: fab
-      url: https://twitter.com/hashtag/apéro
-    - icon: impactstory
-      icon_pack: ai
-      url: https://impactstory.org/u/0000-0002-8082-1890
-    - icon: orcid
-      icon_pack: ai
-      url: http://orcid.org/0000-0002-8082-1890
-    - icon: rss
-      icon_pack: fas
-      url: /blog/index.xml
+    #- icon: github
+    #  icon_pack: fab
+    #  url: https://github.com/apreshill/apero
+   # - icon: facebook-square
+   #   icon_pack: fab
+    #  url: https://www.facebook.com/hashtag/ap%C3%A9ro
+   # - icon: instagram
+   #   icon_pack: fab
+   #   url: https://www.instagram.com/explore/tags/apero/
+   # - icon: twitter
+   #   icon_pack: fab
+   #   url: https://twitter.com/hashtag/apéro
+   # - icon: impactstory
+    #  icon_pack: ai
+    #  url: https://impactstory.org/u/0000-0002-8082-1890
+    #- icon: orcid
+    #  icon_pack: ai
+    #  url: http://orcid.org/0000-0002-8082-1890
+   # #- icon: rss
+    #  icon_pack: fas
+    #  url: /blog/index.xml
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
-  theme: sky
+  theme: violet # forest / grayscale / peach / plum / poppy / sky / violet / water
   twitter: apreshill
   utterances:
     issue_term: pathname
@@ -107,22 +107,22 @@ menu:
       title: Blog
       url: /blog/
       weight: 2
-    - name: Projects
-      title: Project Portfolio
-      url: /project/
-      weight: 3
-    - name: Talks
-      title: Talks
-      url: /talk/
-      weight: 4
     - name: A collection
       title: A collection
       url: /collection/
-      weight: 5
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 6
+      weight: 5 
+    #- name: Projects
+    #  title: Project Portfolio
+    #  url: /project/
+    #  weight: 4
+    #- name: Talks
+    #  title: Talks
+    #  url: /talk/
+    #  weight: 4
+    #- name: Elements
+    #  title: Element Page
+    #  url: /elements/
+    #  weight: 6
 privacy:
   disqus:
     disable: no
@@ -130,17 +130,17 @@ privacy:
     anonymizeIP: yes
     disable: no
     respectDoNotTrack: yes
-  instagram:
-    disable: no
-    simple: yes
-  twitter:
-    disable: no
-    enableDNT: yes
-    simple: no
-  vimeo:
-    disable: no
-    enableDNT: yes
-    simple: yes
-  youtube:
-    disable: no
-    privacyEnhanced: yes
+  #instagram:
+    #disable: no
+    #simple: yes
+  #twitter:
+    #disable: no
+    #enableDNT: yes
+    #simple: no
+  #vimeo:
+    #disable: no
+    #enableDNT: yes
+    #simple: yes
+  #youtube:
+    #disable: no
+    #privacyEnhanced: yes

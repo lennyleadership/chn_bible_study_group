@@ -107,10 +107,10 @@ menu:
       title: Blog
       url: /blog/
       weight: 2
-    - name: A collection
-      title: A collection
-      url: /collection/
-      weight: 5 
+    #- name: A collection
+    #  title: A collection
+    #  url: /collection/
+    #  weight: 5 
     #- name: Projects
     #  title: Project Portfolio
     #  url: /project/

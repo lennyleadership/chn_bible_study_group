@@ -4,7 +4,7 @@ text_align_right: false
 show_title_as_headline: false
 headline: |
   “The entrance of Your Words gives light...”  
-"Psalm 119:130"
+"Psalm 119_130"
 ---
 
 <!-- this is a subheadline -->

@@ -3,7 +3,7 @@
 title: "" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+number_categories:  # set to zero to exclude
 show_intro: true
 intro: |
   A Bible study group was formed in May 2022. It serves a Chinese-speaking group in Tuesday evening.  

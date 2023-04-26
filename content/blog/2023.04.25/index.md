@@ -1,5 +1,5 @@
 ---
-title: [2023.04.26]
+title: [2023.04.26 Tuesday night meeting]
 author: Lenny Lin
 categories: 
 tags: [Salvation]

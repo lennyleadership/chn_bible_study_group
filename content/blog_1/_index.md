@@ -22,7 +22,6 @@ sidebar:
   show_sidebar_adunit: true
   text_link_label: 
   text_link_url: /index.xml
-
 thumbnail_left: true
 title: Chinese/English Bible Study
 ---

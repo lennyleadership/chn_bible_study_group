@@ -106,7 +106,7 @@ menu:
       weight: 1
     - name: Chinese/English Bible Study
       title: Blog
-      url: /blog_1/
+      url: /blog/
       weight: 2
     - name: Breaking the Bread
       title: Blog

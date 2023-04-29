@@ -104,8 +104,12 @@ menu:
       url: /about/
       weight: 1
     - name: Chinese/English Bible Study
-      title: Blog
-      url: /blog/
+      title: Blog1
+      url: /blog_1/
+      weight: 2
+    - name: Breaking the Bread
+      title: Blog2
+      url: /blog_2/
       weight: 2
     - name: Tags
       title: Tags

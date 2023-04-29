@@ -8,9 +8,8 @@ cascade:
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent posts
-    text_link_url: /blog/
-description: "This is a fully featured blog that supports categories, \ntags, series,
-  and pagination.\n"
+    text_link_url: /blog_1/
+description: "This blog is about messages that I help to translate during the Chinese/English Bible Study time Tuesday nights at the Liberty Bible Church."
 layout: list-sidebar
 show_author_byline: true
 show_button_links: false

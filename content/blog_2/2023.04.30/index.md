@@ -10,6 +10,8 @@ layout: single
 excerpt: 
 ---
 
+Prayer based on Hebrews 2.
+<!--more-->
 
 inherit salvation
 

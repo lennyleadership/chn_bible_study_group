@@ -13,5 +13,5 @@ excerpt:
 
 inherit salvation
 
-
-we will not neglect such great a salvation.
+Lord, you spoke the salvation at first, we do not neglect such great a salvation.  
+bring us to the glory and join with you.

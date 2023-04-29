@@ -9,7 +9,7 @@ cascade:
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent posts
-    text_link_url: /blog_2/
+    # text_link_url: /blog_2/
 description: "I share my fruit of thoughts during the Breaking the Bread time in this blog"
 layout: list-sidebar
 show_author_byline: true

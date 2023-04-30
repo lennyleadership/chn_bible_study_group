@@ -2,7 +2,7 @@
 weight: 3
 title: When I Survey the Wondrous Cross
 author: Lenny Lin
-categories: 
+categories: [Breaking the bread]
 tags: 
 series: [PAC]
 date: "2023-02-05"

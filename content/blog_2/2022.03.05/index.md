@@ -2,7 +2,7 @@
 weight: 1
 title: I was crucified - the past tense
 author: Lenny Lin
-categories: 
+categories: [Breaking the bread]
 tags: 
 series: [LBC]
 date: "2022-03-05"

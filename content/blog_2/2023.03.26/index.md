@@ -2,7 +2,7 @@
 weight: 4
 title: The First-born Son
 author: Lenny Lin
-categories: 
+categories: [Breaking the bread]
 tags: 
 series: [PAC]
 date: "2023-03-26"

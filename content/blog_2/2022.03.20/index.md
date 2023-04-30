@@ -2,8 +2,8 @@
 weight: 2
 title: Jesus in Ezekiel
 author: Lenny Lin
-categories: 
-tags: [Faith, Breaking the bread]
+categories: [Breaking the bread]
+tags: [Faith]
 series: [LBC]
 date: "2022-03-20"
 draft: false

@@ -5,7 +5,7 @@ author: Lenny Lin
 categories: 
 tags: [Faith, Breaking the bread]
 series: [LBC]
-date: "2023-03-26"
+date: "2022-03-20"
 draft: false
 layout: single
 excerpt: 

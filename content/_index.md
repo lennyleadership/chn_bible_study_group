@@ -1,5 +1,5 @@
 ---
-title: Spiritual Blogs
+title: LBC Blog
 action_label: Read More &rarr;
 action_link: /about
 action_type: text

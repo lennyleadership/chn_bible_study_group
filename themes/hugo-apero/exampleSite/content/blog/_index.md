@@ -34,7 +34,7 @@ sidebar:
 cascade:
   author: "The R Markdown Team @RStudio"
   show_author_byline: true
-  show_post_date: true
+  show_post_date: false
   show_comments: true # see site config to choose Disqus or Utterances
   # for single-sidebar layout
   sidebar:

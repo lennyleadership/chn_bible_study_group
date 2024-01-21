@@ -5,9 +5,11 @@ categories:
 tags: 
 series: 
 date: "2024-01-20"
+lastmod: "2024-01-20"
 draft: false
-layout: single
-excerpt: 
+layout: single-sidebar
+toc:true
+bookCollapseSection: true
 
 ---
 

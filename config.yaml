@@ -104,8 +104,8 @@ menu:
       url: /about/
       weight: 1
     - name: Hymns and Songs
-      title: Blog
-      url: /blog/
+      title: A collection
+      url: /collection/
       weight: 2
     - name: Tags
       title: Tags

@@ -104,7 +104,7 @@ menu:
       title: About Blogophonic
       url: /about/
       weight: 1
-    - name: Chinese/English Bible Study
+    - name: Hymns and Songs
       title: Blog
       url: /blog/
       weight: 2

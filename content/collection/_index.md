@@ -12,7 +12,7 @@ cascade:
     text_link_label: ""
     text_link_url: ""
     text_series_label: Outline
-    title: Hymns and Songs
+    title: Collections
 description: "Hymns and Songs \nmeant
   With Joy \nminus LBC.\n"
 layout: list-sidebar
@@ -21,5 +21,5 @@ show_post_date: false
 show_post_thumbnail: true
 subtitle: A collection, minus the blog.
 thumbnail_left: false
-title: Hymns and Songs
+title: Collections
 ---

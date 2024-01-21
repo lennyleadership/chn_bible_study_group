@@ -1,8 +1,8 @@
 baseURL: /
 theme: hugo-apero
 languageCode: en
-title: Hugo Apéro
-author: Alison Hill
+title: LBC Blog
+author: LEnny Lin
 copyright: ''
 googleAnalytics: ''
 disqusShortname: ''
@@ -39,7 +39,6 @@ params:
   logo: /img/dove.png
   mainSections:
     - blog
-    - blog_2
     #- project
     #- talk
   math:

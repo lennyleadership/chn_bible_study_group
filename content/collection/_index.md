@@ -4,9 +4,7 @@ cascade:
   layout: single-series
   sidebar:
     author: Lenny Lin
-    description: "We worship God in singing"
-      \nmeant "" \nminus
-      "the blog."\n"
+    description: ""
     show_author_byline: true
     show_post_date: true
     show_sidebar_adunit: true

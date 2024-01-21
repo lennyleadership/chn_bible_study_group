@@ -3,8 +3,8 @@ author: Lenny Lin
 cascade:
   layout: single-series
   sidebar:
-    author: Lenny
-    description: "We worship God in singing
+    author: Lenny Lin
+    description: "We worship God in singing"
       \nmeant "" \nminus
       "the blog."\n"
     show_author_byline: true

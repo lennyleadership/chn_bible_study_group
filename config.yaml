@@ -108,14 +108,10 @@ menu:
       title: Blog
       url: /blog/
       weight: 2
-    - name: Breaking the Bread
-      title: Blog
-      url: /blog_2/
-      weight: 3
     - name: Tags
       title: Tags
       url: /tags/
-      weight: 4
+      weight: 3
     #- name: Series
     #  title: Series
     #  url: /series/

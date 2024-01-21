@@ -7,10 +7,9 @@ series:
 date: "2024-01-20"
 lastmod: "2024-01-20"
 draft: false
-layout: single-sidebar
-toc:true
+toc: true
 bookCollapseSection: true
-
+layout: single-sidebar
 ---
 
 # 1. purple robe
